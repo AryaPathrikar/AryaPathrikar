@@ -35,7 +35,7 @@ A simplified version of Amazon, featuring customer login and product display fun
 
 ## 📊 GitHub Stats
 ![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaPathrikar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-AryaPathrikar&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaPathrikar&layout=compact&theme=radical)
 
 ## 🌱 What I'm Learning
 - Advanced **Machine Learning** techniques and **Deep Learning** frameworks.
