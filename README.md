@@ -1,10 +1,16 @@
-# Hello there 👋, I'm Arya Pathrikar
+# Welcome to My GitHub Profile! 👋, I'm Arya Pathrikar
 
 🎓 **Graduate Student in Computer Science** at Syracuse University with a passion for software development and data science. I specialize in **Java development** with experience in **Spring Boot**, **React**, **Python**, **SQL/NoSQL**, and **Machine Learning**.
 
 I enjoy working on projects that bring impactful, data-driven insights and innovative solutions. My work spans from predictive modeling to web development, and I’m always eager to explore new tools and frameworks!
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies I Work With
+- **Languages**: Java, Python, C/C++, SQL, JavaScript, HTML/CSS
+- **Frameworks**: React, Node.js, Spring boot, Bootstrap, Linux, MongoDB
+- **Tools**: Git, Docker, Maven, Visual Studio Code, Microsoft Office Suite, JIRA, Amazon Web Services, Tableau
+- **Databases**: MongoDB, SQLite, MySQL
+- **Libraries**: OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Sklearn, Seaborn, PyTorch, TensorFlow, Keras
+- **Others**: Tableau, JUnit, AWS
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -13,10 +19,6 @@ I enjoy working on projects that bring impactful, data-driven insights and innov
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
-
-# 👋 Welcome to My GitHub Profile!
-
-Hello! I'm **Arya Pathrikar**, a passionate software developer and data science enthusiast. I specialize in **Java, Spring Boot, React**, and have experience with **machine learning**, **data analysis**, and **full-stack development**. Below are some of my standout projects that I've worked on!
 
 ---
 
@@ -36,25 +38,6 @@ Developed a face detection system using the Local Binary Pattern Histogram (LBPH
 **Research Paper**: *Tracking Impact of PM Poshan on Child’s Health* published in the *International Journal of Computer Engineering and Applications (IJCEA)* in 2023.
 
 ---
-
-## 🔧 Technologies I Work With
-
-- **Languages**: Java, Python, JavaScript, SQL
-- **Frameworks**: Spring Boot, React, Redux
-- **Tools**: Docker, Jenkins, Git, Maven
-- **Databases**: MongoDB, SQLite, MySQL
-- **Libraries**: OpenCV, Scikit-learn, TensorFlow
-- **Others**: Tableau, JUnit, AWS
-
----
-
-## 📊 GitHub Stats
-![Arya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AryaPathrikar&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AryaPathrikar&layout=compact&theme=radical)
-
-## 🌱 What I'm Learning
-- Advanced **Machine Learning** techniques and **Deep Learning** frameworks.
-- **Cloud Computing** and **AWS** services for scalable solutions.
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-pathrikar/)
