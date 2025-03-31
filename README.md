@@ -11,6 +11,7 @@ I enjoy working on projects that bring impactful, data-driven insights and innov
 - **Databases**: MongoDB, SQLite, MySQL
 - **Libraries**: OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Sklearn, Seaborn, PyTorch, TensorFlow, Keras
 - **Others**: Tableau, JUnit, AWS
+- 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
