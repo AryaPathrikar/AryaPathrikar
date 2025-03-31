@@ -13,10 +13,6 @@ I enjoy working on projects that provide impactful, data-driven insights and inn
 - **Libraries**: OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Sklearn, Seaborn, PyTorch, TensorFlow, Keras  
 - **Others**: JUnit, AWS  
 
----
-
-## 🛠️ Technologies Badges
-
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
@@ -29,9 +25,8 @@ I enjoy working on projects that provide impactful, data-driven insights and inn
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
----
+
 
 ## 🚀 Projects
 
@@ -40,14 +35,14 @@ I enjoy working on projects that provide impactful, data-driven insights and inn
 A microservices-based task management system that facilitates efficient task assignment and tracking. Applied **Data Structures** and **Design Patterns** to enhance system modularity. Designed a **React-based frontend** with **Redux** for state management, ensuring a responsive user experience. Collaborated with stakeholders to gather UX requirements and improve user satisfaction. Implemented **customizable dashboards** for personalized task management.  
 [**View Project**](https://github.com/AryaPathrikar/collaborative-task-management-system)
 
----
+
 
 ### 📦 Delivery Crowdsourcing Application  
 **Built with**: Java, Spring Boot, React  
 A crowdsourced delivery application designed to provide **cost-effective parcel delivery** on commute routes. Developed backend architecture with **Spring MVC** to ensure seamless frontend-backend communication. Created an intuitive user interface using **React**, optimizing parcel management for delivery agents.  
 [**View Project**](https://github.com/AryaPathrikar/crowd-sourced_delivery_system)
 
----
+
 
 ### 🍽️ Tracking the Impact of PM Poshan Scheme  
 **Built with**: OpenCV, SQLite  
@@ -55,7 +50,7 @@ Developed a **face detection system** using the **Local Binary Pattern Histogram
 **Research Paper**: *Tracking Impact of PM Poshan on Child’s Health* published in the *International Journal of Computer Engineering and Applications (IJCEA)* in 2023.  
 [**View Project**](https://github.com/AryaPathrikar/AI-based-health-tracker-SIH-)
 
----
+
 
 ## 📫 How to Reach Me
 
