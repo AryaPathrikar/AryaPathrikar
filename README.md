@@ -3,7 +3,6 @@ I'm **Arya Pathrikar**, a **Graduate Student in Computer Science** at **Syracuse
 
 I enjoy working on projects that provide impactful, data-driven insights and innovative solutions. My work spans predictive modeling, web development, and much more. I’m always eager to explore new tools and frameworks!
 
----
 
 ## 🔧 Technologies I Work With
 - **Languages**: Java, Python, C/C++, SQL, JavaScript, HTML/CSS  
@@ -13,14 +12,14 @@ I enjoy working on projects that provide impactful, data-driven insights and inn
 - **Libraries**: OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Sklearn, Seaborn, PyTorch, TensorFlow, Keras  
 - **Others**: JUnit, AWS  
 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)
-![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau)
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=javalogoColor=white)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-bootlogoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=reactlogoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=pythonlogoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysqllogoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodblogoColor=white)
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableaulogoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flatlogoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
