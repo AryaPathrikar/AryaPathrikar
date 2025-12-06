@@ -1,16 +1,22 @@
 # Welcome to My GitHub Profile! 👋  
-I'm **Arya Pathrikar**, a **Graduate Student in Computer Science** at **Syracuse University** with a passion for software development and data science. I specialize in **Java development** and have hands-on experience with **Spring Boot**, **React**, **Python**, **SQL/NoSQL**, and **Machine Learning**.
+I’m an AI-focused Software Engineer specializing in LLM applications, agentic systems, and backend engineering. I build production-grade systems that combine machine learning, multi-agent architecture, and scalable backend services to solve real-world problems — from intelligent travel systems to AI-driven content pipelines.
 
-I enjoy working on projects that provide impactful, data-driven insights and innovative solutions. My work spans predictive modeling, web development, and much more. I’m always eager to explore new tools and frameworks!
+I thrive at the intersection of engineering + applied AI and enjoy turning research-grade ideas into deployable systems.
+
+🌐 **Portfolio:** (https://arya-pathrikar-portfolio.vercel.app) 
+🔗 **LinkedIn:** (https://www.linkedin.com/in/arya-pathrikar/)
+📩 **Email:** arya.pathrikar@gmail.com
 
 
 ## 🔧 Technologies I Work With
-- **Languages**: Java, Python, C/C++, SQL, JavaScript, HTML/CSS  
-- **Frameworks**: React, Node.js, Spring Boot, Bootstrap, Linux, MongoDB  
-- **Tools**: Git, Docker, Maven, Visual Studio Code, Microsoft Office Suite, JIRA, AWS, Tableau  
-- **Databases**: MongoDB, SQLite, MySQL  
-- **Libraries**: OpenCV, Scikit-learn, Pandas, NumPy, Matplotlib, Sklearn, Seaborn, PyTorch, TensorFlow, Keras  
-- **Others**: JUnit, AWS  
+### Backend
+Java, Python, Spring Boot, FastAPI, MongoDB, MySQL, PostgreSQL, Bash
+### Frontend
+React, Tailwind CSS, HTML, CSS, TypeScript, Node.js
+### Developer Tools
+Git, Docker, Kubernetes, AWS, Linux, Agile/Scrum, REST APIs
+### AI / ML
+Pandas, PyTorch, NumPy, OpenCV, Hugging Face Transformers, LLMs, BERT, LangChain
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=javalogoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-bootlogoColor=white)
@@ -27,34 +33,56 @@ I enjoy working on projects that provide impactful, data-driven insights and inn
 
 
 
-## 🚀 Projects
+## 🚀 Projects I worked on
 
-### 🛠️ Collaborative Task Management System  
-**Built with**: Java, Spring Boot, React, MongoDB  
-A microservices-based task management system that facilitates efficient task assignment and tracking. Applied **Data Structures** and **Design Patterns** to enhance system modularity. Designed a **React-based frontend** with **Redux** for state management, ensuring a responsive user experience. Collaborated with stakeholders to gather UX requirements and improve user satisfaction. Implemented **customizable dashboards** for personalized task management.  
-[**View Project**](https://github.com/AryaPathrikar/collaborative-task-management-system)
+### 🌍 Reel-to-Itinerary Multi-Agent Engine  
+**Tech:** Gemini LLMs, Google ADK, MCP, Multi-Agent Systems  
+Built a multi-agent system using Google ADK + Gemini LLM to extract landmarks from Instagram Reels (Vision Agent), resolve locations, and generate personalized travel itineraries, achieving **~92% landmark detection accuracy**.
+Implemented custom MCP tools, parallel + sequential agents, and session/state management with context-aware memory, improving multi-step reasoning consistency by **40%**.
+Added production-grade observability (logs, metrics, traces), increasing itinerary relevance and reliability by **30%** through performance tuning.
 
+🔗 [**View Project**](https://github.com/AryaPathrikar/reel-locator-agentic-ai)
 
+---
+
+### 🧠 Stress Detection Using Wearables  
+**Tech:** Python, XGBoost, Random Forest, ML Pipelines  
+Processed biometric signals (HRV, temperature) from wearable devices with **500+ data points** for stress classification.
+Compared ML models (Random Forest, XGBoost, SVM) with advanced outlier detection (IQR, Isolation Forest), achieving **92% classification accuracy**.
+Applied feature engineering and predictive modeling to enable biometric-based stress insights.
+
+🔗 [**View Project**](https://github.com/AryaPathrikar/crowd-sourced_delivery_system)
+
+---
 
 ### 📦 Delivery Crowdsourcing Application  
-**Built with**: Java, Spring Boot, React  
-A crowdsourced delivery application designed to provide **cost-effective parcel delivery** on commute routes. Developed backend architecture with **Spring MVC** to ensure seamless frontend-backend communication. Created an intuitive user interface using **React**, optimizing parcel management for delivery agents.  
-[**View Project**](https://github.com/AryaPathrikar/crowd-sourced_delivery_system)
+**Tech:** Java, Spring Boot, React, MySQL  
+Built a crowdsourced last-mile delivery application using Spring Boot (MVC architecture).
+Applied Spring Design Patterns (Singleton, DAO, Adapter) and SOLID principles, improving system modularity.
+Developed a React + REST API frontend enabling customers to request couriers and track deliveries.
 
+🔗 [**View Project**](https://github.com/AryaPathrikar/crowd-sourced_delivery_system)
 
+---
 
-### 🍽️ Tracking the Impact of PM Poshan Scheme  
-**Built with**: OpenCV, SQLite  
-Developed a **face detection system** using the **Local Binary Pattern Histogram (LBPH)** method with 95% accuracy for monitoring student attendance in the PM Poshan Scheme. Created a **Haar Cascade model** with 84% accuracy for estimating calories in the scheme. Analyzed **calorie intake** and **BMI**, offering insights into the scheme’s impact on health and education.  
-**Research Paper**: *Tracking Impact of PM Poshan on Child’s Health* published in the *International Journal of Computer Engineering and Applications (IJCEA)* in 2023.  
-[**View Project**](https://github.com/AryaPathrikar/AI-based-health-tracker-SIH-)
+### 🍽️ PM Poshan Impact Analysis System  
+**Tech:** OpenCV, SQLite  
+Built a face recognition-based attendance system using LBPH achieving **95% accuracy**.
+Developed a food-item recognition model using Haar Cascade with **84% accuracy** for calorie estimation.
+Analyzed BMI and calorie intake to evaluate public health outcomes.
+
+📰 **Research Paper:**  
+*"Tracking Impact of PM Poshan on Child’s Health"*  
+Published in *International Journal of Computer Engineering and Applications (IJCEA), 2023*
+
+🔗 [**View Project**](https://github.com/AryaPathrikar/AI-based-health-tracker-SIH-)
 
 
 
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-pathrikar/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aapathri@syr.edu)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arya.pathrikar@gmail.com)
 
 ---
 
