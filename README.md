@@ -61,7 +61,7 @@ Built a crowdsourced last-mile delivery application using Spring Boot (MVC archi
 Applied Spring Design Patterns (Singleton, DAO, Adapter) and SOLID principles, improving system modularity.
 Developed a React + REST API frontend enabling customers to request couriers and track deliveries.
 
-🔗 [**View Project**](https://github.com/AryaPathrikar/crowd-sourced_delivery_system)
+🔗 [**View Project**](https://github.com/AryaPathrikar/crowdsourced_delivery)
 
 ---
 
